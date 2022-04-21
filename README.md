@@ -26,6 +26,7 @@ Comandos:
 En terminal 1:
 
 sudo apt install libusbmuxd-tool
+
 iproxy 2022 44
 
 
