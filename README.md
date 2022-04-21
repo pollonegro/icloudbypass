@@ -7,7 +7,7 @@ Realizar Jailbreak al dispositivo usando checkn1x (checkra1n boot):
 
 https://github.com/asineth0/checkn1x
 
-
+https://raw.githubusercontent.com/pollonegro/icloudbypass/main/checkn1x.png
 
 En terminal 1:
 
