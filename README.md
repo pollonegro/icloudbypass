@@ -1,5 +1,5 @@
 # icloudbypass
-iCloud Bypass script for 12.5.5 iOS
+iCloud Bypass script iOS12.2 up to iOS13.2.3
 
 
 ----- EDUCATIONAL PURPOSES ONLY -----
