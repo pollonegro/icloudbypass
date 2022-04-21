@@ -18,11 +18,6 @@ Jailbreaked:
 
 
 
-Conectar a equipo:
-
-![conexion](https://raw.githubusercontent.com/pollonegro/icloudbypass/main/connected.png)
-
-
 
 Comandos:
 
@@ -47,6 +42,8 @@ mv /Applications/Setup.app/Setup /Applications/Setup.app/Setup.backup
 uicache -a
 
 killall backboardd
+
+
 
 
 Listo:
