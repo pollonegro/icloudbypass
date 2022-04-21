@@ -1,6 +1,12 @@
 # icloudbypass
 iCloud Bypass script for 12.5.5 iOS
 
+
+----- EDUCATIONAL PURPOSES ONLY -----
+----- SOLO FINES EDUCATIVOS -----
+
+
+
 ![blocked ipad](https://raw.githubusercontent.com/pollonegro/icloudbypass/main/blocked.png)
 
 
