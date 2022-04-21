@@ -49,3 +49,10 @@ uicache -a
 killall backboardd
 
 
+Listo:
+
+![free](https://raw.githubusercontent.com/pollonegro/icloudbypass/main/free.png)
+
+
+
+
